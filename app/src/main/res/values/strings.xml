@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ListaExemplo</string>
+    <string name="idade">Idade</string>
 </resources>
